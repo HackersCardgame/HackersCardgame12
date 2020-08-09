@@ -42,9 +42,11 @@ then
 		xdotool key Ctrl+Alt+a
 		sleep 1
 		xdotool key Ctrl+c
-		sleep 0.6
+		sleep 3
+		#does not work anymore, xdotool can not anymore access
+		#gnome tab switching, changed about 2 months ago
 		xdotool key Alt+Escape
-		sleep 0.6
+		sleep 3
 		xdotool key Ctrl+v
 		sleep 0.6
 		xdotool key Ctrl+g
