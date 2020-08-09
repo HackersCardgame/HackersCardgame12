@@ -1,2 +1,1 @@
-../png/EN/t40.png
-../png/EN/t41.png
+../png/EN/a25.png
