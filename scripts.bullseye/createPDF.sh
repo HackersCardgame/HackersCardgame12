@@ -54,7 +54,8 @@ for j in $(echo "./pdf_$1_$2.txt")
    sleep 0.1
    xdotool key KP_Enter
    sleep 5
-   xdotool key alt+F4
+   xdotool key alt+f
+   xdotool key q
 
    echo printed $i
 
