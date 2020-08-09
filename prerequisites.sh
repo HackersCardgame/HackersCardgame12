@@ -29,6 +29,7 @@ if echo "$answer" | grep -iq "^y"
   sudo apt-get install figlet
   sudo apt-get install cups-pdf
   sudo apt-get remove clipit
+  sudo apt-get install wmctrl
 
   cd ./fonts
   ./fonts.sh
