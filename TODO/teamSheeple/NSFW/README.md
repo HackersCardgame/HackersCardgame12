@@ -1,4 +1,6 @@
 
+EN: translated with google, not enught time
+
 I was always the fattest kid, not for the first few years of my life but when I was the only family member that his room was in Keller had hit my psyche at best (isolation -> lower self-worth -> compensate with food)
 
 Then I was also told not to be so fat, at best even Well meant, but that caused shame in me, or at most it also caused the THS Wire Amygdala turned on.
@@ -29,4 +31,49 @@ Ich hab es so ab 20 geschafft, die Kilos runter zu bekommen, wurde dann aber jew
 -> 4. wegen 3. dann wieder 2. etc
 
 Ich hab die Kilos jetzt zwar runter, aber das übergewicht hat dafür gesorgt, dass viele Hautpartien so ein bisschen hängen. Ich hab das gefühl, wenn man da straffende Bodylotion nimmt und diese Stellen dann in Haushaltfolie einwickelt hilft das ein bisschen. Ich lass das jeweils so 5h dran, falls jemand eine bessere Idee hat wäre ich dankbar, irgend Skalpell und OP kommt nicht in Frage, ich bin Hämatophobiker...
+
+
+ich will auch keine Rache oder so, Menschen tendieren oft dazu (z.B. bei
+Pädophilie) den Täter halb tod zu schlagen (zeitaufwand: 5min) statt
+dem opfer zu helfen wieder gesund zu werden... ausserdem will ich mir auch
+nicht Rache in den Lebenslauf schreiben, das ist schlecht für's Karma...
+
+Statt die Täter (halb) zu töten (die eh meist aus der Generation der Eltern
+sind und deshalb eh untastbar weil nicht nur die informatik sondern auch
+das rechtssystem meiner meinung nach mit m72 karte implementiert wurde)
+wäre es gescheiter einfach versuchen die Opfer wieder gesund zu pflegen,
+das bedeutet dann nicht 5 Min auwand sondern Jahre... auch in der Psyche
+und zu schauen, dass das "nette" m72-system so dinge nicht jüngeren
+auch antut, da sollten wir die Zeit investieren.
+
+ausserdem denke ich, dass saten das m50 vorsätzlich so implementiert hat,
+dass eine gruppe von 1980er opfer jeweils ein anderes 1980er opfer (halb)
+töten das satan vorsätzlich fälschlich als täter beschriftet hat.
+
+das hilft zwar allenfalls den den anderen Opfern die so mal nicht selber
+die Arschrolle haben, ab dem Zeitpunkt wo satan aber die BigDATA akte freigibt
+dass der andere 1980er nur als Täter beschriftet war aber eigentlich das
+Opfer ist, dass allenfalls am meisten gelitten hat würden alle anderen
+Opfer zu Tätern werden, könnten ihre Opferrolle nicht mehr einklagen und
+wären verflucht und verdammt für alle zeit, damit auch dissoziierbar und 
+fremdbestimmbar durch satan, bzw. durch alle die die wahrheit kennen
+und müssten so satan beim vertuschen (=geheimhalten) helfen, zwangsweise.
+
+somit hier das was ich schon auf Twitter gesagt habe:
+allen Jüngeren sei hiermit vergeben und auch die namentlich erwähnten
+ausnahmen die ein bisschen älter sind...
+
+an alle älteren
+1. denkt mal über Euch, Euer Wertesystem und Eure gehäuchelte Moral nach
+2. lasst mich oder uns 1980er mindestens in Ruhe, bzw die anderen 1980er
+   können ja auch für sich selber sprechen, aber ich vermute es geht vielen
+   so wie mir
+3. IF (!2.) THEN GFY
+
+
+an alle jüngeren
+mir ist eh klar dass ihr von den alten und ganzalten instrumentalisiert wurdet
+also muss ich euch eigentlich nciht mal vergeben, aber falls satan
+mich meuchelt würde er dann Euch damit erpressen, also ist das ein 
+Hack gegen satans plan...
 
